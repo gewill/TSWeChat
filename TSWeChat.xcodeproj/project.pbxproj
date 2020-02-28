@@ -752,11 +752,12 @@
 				TargetAttributes = {
 					AE92B5E01C3FF73000968A3A = {
 						CreatedOnToolsVersion = 7.2;
-						DevelopmentTeam = VXUQXR6S56;
+						DevelopmentTeam = RLK76T8Y89;
 						LastSwiftMigration = 1020;
 					};
 					AE92B5F41C3FF73000968A3A = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = RLK76T8Y89;
 						LastSwiftMigration = 1020;
 						TestTargetID = AE92B5E01C3FF73000968A3A;
 					};
@@ -1147,7 +1148,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = VXUQXR6S56;
+				DEVELOPMENT_TEAM = RLK76T8Y89;
 				EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE = YES;
 				ENABLE_BITCODE = YES;
 				ENABLE_TESTABILITY = NO;
@@ -1175,7 +1176,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = VXUQXR6S56;
+				DEVELOPMENT_TEAM = RLK76T8Y89;
 				EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE = YES;
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = "$(SRCROOT)/TSWeChat/Supportting Files/Info.plist";
@@ -1198,6 +1199,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = RLK76T8Y89;
 				INFOPLIST_FILE = TSWeChatTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -1213,6 +1215,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = RLK76T8Y89;
 				INFOPLIST_FILE = TSWeChatTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";

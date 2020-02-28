@@ -10,7 +10,7 @@ def pods
     pod 'Alamofire', '~> 4.0'
     pod 'Kingfisher'
     pod 'ObjectMapper', '~> 3.4'
-    pod 'SwiftyJSON', '~> 4.0'
+    pod 'SwiftyJSON'
     pod 'Dollar', '9.0.0'
     #pod 'Cent', :git => 'https://github.com/ashitanojoe/Cent.git'
     pod 'KeychainAccess', '3.2.0'

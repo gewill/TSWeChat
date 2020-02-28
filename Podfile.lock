@@ -11,11 +11,11 @@ PODS:
   - Kingfisher (5.13.2):
     - Kingfisher/Core (= 5.13.2)
   - Kingfisher/Core (5.13.2)
+  - LookinServer (1.0.0)
   - ObjcExceptionBridging (1.0.1):
     - ObjcExceptionBridging/ObjcExceptionBridging (= 1.0.1)
   - ObjcExceptionBridging/ObjcExceptionBridging (1.0.1)
   - ObjectMapper (3.5.1)
-  - Reveal-SDK (4)
   - RxBlocking (5.0.1):
     - RxSwift (~> 5)
   - RxCocoa (5.0.1):
@@ -46,8 +46,8 @@ DEPENDENCIES:
   - INTULocationManager (= 4.3.2)
   - KeychainAccess (= 3.2.0)
   - Kingfisher
+  - LookinServer
   - ObjectMapper (~> 3.4)
-  - Reveal-SDK (~> 4)
   - RxBlocking (~> 5)
   - RxCocoa (~> 5)
   - RxSwift (~> 5)
@@ -71,9 +71,9 @@ SPEC REPOS:
     - INTULocationManager
     - KeychainAccess
     - Kingfisher
+    - LookinServer
     - ObjcExceptionBridging
     - ObjectMapper
-    - Reveal-SDK
     - RxBlocking
     - RxCocoa
     - RxRelay
@@ -97,9 +97,9 @@ SPEC CHECKSUMS:
   INTULocationManager: e5dc524611b0cd582f473bc56cc8c389adb2f338
   KeychainAccess: 3b1bf8a77eb4c6ea1ce9404c292e48f948954c6b
   Kingfisher: d342c8354c10c3d85a27d6d4c42c41285924b898
+  LookinServer: 0002891cd3cec5e082a910e897dfe71b4f06b89e
   ObjcExceptionBridging: c30e00eb3700467e695faeea30e26e18bd445001
   ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
-  Reveal-SDK: 178c927f1a3230648d3a92b96f6e730a35b2750a
   RxBlocking: c5e090f42d046df8b0e7752742510f349963710f
   RxCocoa: e741b9749968e8a143e2b787f1dfbff2b63d0a5c
   RxRelay: 89d54507f4fd4d969e6ec1d4bd7f3673640b4640
@@ -114,6 +114,6 @@ SPEC CHECKSUMS:
   XLActionController: d7dea0b162bd3977311bcba7d377b88d6b87a7b4
   YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
 
-PODFILE CHECKSUM: 8aeec54c8d89a25bae3c090af37bc84c996f4057
+PODFILE CHECKSUM: 05c2b0fcf005cc02516adf58bb44a4c85dcc75e4
 
 COCOAPODS: 1.8.4

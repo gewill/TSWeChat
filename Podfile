@@ -31,7 +31,8 @@ def pods
     pod 'SVProgressHUD', '2.0.4'
     pod 'INTULocationManager', '4.3.2'
 
-    pod 'Reveal-SDK', '~> 4', :configurations => ['Debug']
+#    pod 'Reveal-SDK', '~> 4', :configurations => ['Debug']
+    pod 'LookinServer', :configurations => ['Debug']
 end
 
 target 'TSWeChat' do
